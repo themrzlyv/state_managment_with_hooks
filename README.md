@@ -1,2 +1,2 @@
 # state_managment_with_hooks
-Created with CodeSandbox
+using useReducer , useContext also Typescript
